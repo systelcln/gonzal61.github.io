@@ -9,6 +9,7 @@ h1 {
 font-size: 60px;
   font-family: Palatino, 'Palatino Linotype', serif;
   color: red;
+  text-align: centered;
 }
 
 h2 {
