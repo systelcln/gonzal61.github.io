@@ -33,6 +33,10 @@ font-size: 24px;
 text-decoration: none;
 }
 
+div.image {
+   content:url(http://imgur.com/a/qq98q);
+}
+
 nav li {
   margin: 0;
   padding: 0 10px;
