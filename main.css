@@ -35,6 +35,8 @@ text-decoration: none;
 
 div.image {
    content:url(http://imgur.com/a/qq98q);
+  width: 100px;
+  height: 100px;
 }
 
 nav li {
