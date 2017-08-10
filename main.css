@@ -12,6 +12,11 @@ font-size: 60px;
   text-align: center;
 }
 
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+
 h2 {
 font-size: 48px;
 }
@@ -39,10 +44,7 @@ div.image {
   height: 100px;
 }
 
-.contact-btn {
-  float: right;
-  font-size: 36px;
-}
+
   
 nav li {
   margin: 0;
