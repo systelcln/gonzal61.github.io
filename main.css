@@ -5,6 +5,10 @@ text-align: center;
 width: 100%;
 }
 
+blockquote {
+position: left;
+}
+
 h1 {
 font-size: 60px;
   font-family: Palatino, 'Palatino Linotype', serif;
